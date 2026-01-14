@@ -1,4 +1,4 @@
-# 🍔 Flutter Food App
+# 🍔 Flutter Burger Hub App
 
 A **production-ready food mobile application** built with Flutter, featuring a modern architecture, seamless UI/UX, and enterprise-grade features. This app showcases best practices in mobile development with clean code principles, state management, and comprehensive feature implementation.
 
