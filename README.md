@@ -64,9 +64,8 @@ A **production-ready food mobile application** built with Flutter, featuring a m
 - **Flutter SVG** - Scalable vector graphics
 - **Convex Bottom Bar** - Modern navigation bar
 
-### Localization & Navigation
+### Localization
 - **Easy Localization** - Multi-language support (AR, EN)
-- **Go Router** - Declarative routing and deep linking
 
 ### Other Tools
 - **Local Auth** - Biometric authentication
