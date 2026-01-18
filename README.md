@@ -127,7 +127,6 @@ Add new languages by creating JSON files in `assets/langs/` and updating support
 | flutter_secure_storage | Secure Storage | 9.2.4 |
 | local_auth | Biometric Auth | 3.0.0 |
 | easy_localization | Localization | 3.0.8 |
-| go_router | Navigation | 17.0.1 |
 | lottie | Animations | 3.3.2 |
 
 ---
